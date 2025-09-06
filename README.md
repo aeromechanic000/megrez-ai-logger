@@ -1,4 +1,4 @@
-# Megrezi AI Logger 
+# Megrez AI Logger 
 
 A lightweight and flexible logging toolkit for intelligent agents, designed to support both **local debugging** and **remote log monitoring via a web dashboard**. Logs can be colorfully printed to the console, saved to local files, or streamed to a web-based log viewer.
 
