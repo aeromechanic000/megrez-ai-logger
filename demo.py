@@ -19,7 +19,7 @@ def main():
         'file_path': 'logs/stock_market_agent.log',
         'file_level': 'INFO',
         'megrez_output': True,
-        'megrez_url': 'http://localhost:5055',
+        'megrez_url': 'http://192.168.154.26:5055',
         'megrez_token': 'test456',
         'megrez_table': 'stock_market_ai',
         'sender_name': 'StockMarketAI',

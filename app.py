@@ -24,8 +24,8 @@ def load_tokens():
     except FileNotFoundError:
         # Create default tokens file
         default_tokens = {
-            "demo-token-123": "demo_user",
-            "admin-token-456": "admin"
+            "demo123": "demo_user",
+            "test456": "test_user"
         }
         os.makedirs('static', exist_ok=True)
         with open('static/tokens.json', 'w') as f:

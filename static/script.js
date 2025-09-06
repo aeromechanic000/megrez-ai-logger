@@ -837,7 +837,6 @@ function Sidebar({ currentPage, onPageChange, tables, username, onLogout }) {
                     {!isCollapsed && (
                         <div className="user-details">
                             <p className="user-name">{username}</p>
-                            <p className="user-role">Administrator</p>
                         </div>
                     )}
                     <button
