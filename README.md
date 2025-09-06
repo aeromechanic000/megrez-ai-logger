@@ -4,6 +4,7 @@ A lightweight and flexible logging toolkit for intelligent agents, designed to s
 
 This system is ideal for managing asynchronous multi-agent environments such as LLM-powered agents, AI bots, or simulation experiments.
 
+![megrez ai logger](https://s2.loli.net/2025/09/06/hgbPvlcLrqNaBCx.png)
 ---
 
 ## ✨ Features
