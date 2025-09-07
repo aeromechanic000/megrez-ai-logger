@@ -1152,10 +1152,6 @@ function Dashboard() {
                             >
                                 <Icons.Trash className="w-4 h-4" />
                             </button>
-                            <button className="btn btn-ghost btn-sm">
-                                <Icons.Eye className="w-4 h-4" />
-                                <span>View All</span>
-                            </button>
                         </div>
                     </div>
                     <div className="panel-content">
